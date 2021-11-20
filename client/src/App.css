@@ -1,0 +1,12 @@
+.background{
+  background-color:rgba(220, 220, 220, 0.842);
+}
+.modal-header{
+    background-color:rgb(201, 198, 198);
+    max-height: 0px;
+}
+.top{
+  position: sticky;
+  z-index: 99;
+  top:8%;
+}

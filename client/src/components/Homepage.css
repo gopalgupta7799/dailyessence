@@ -1,0 +1,33 @@
+.image-class{
+    filter: drop-shadow(3px 5px 10px rgba(0,0,0,0.55));
+    width:20em;
+    height: 20em;
+    transition: all 0.2s ease-in-out 0s;
+}
+.image-class:hover{ 
+	transform: scale(1.1) translateY(-5px);
+}
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 30px;
+    width: 30px;
+    outline: black;
+    background-color: rgba(0, 0, 0, 0.3);
+    background-size: 100%, 100%;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+.categoryname{
+    margin-top: 5%;
+    color: rgb(32, 184, 108);
+    position: relative;
+    left:32%;
+    width:200px;
+    box-shadow: 0px 4px 5px rgba(0,0,0,0.55);
+    background-color: rgb(255, 255, 255);
+    transition: all 0.2s ease-in-out 0s;
+    border:2px solid rgba(255, 219, 15, 0.795);
+}
+.categoryname:hover{
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.55);
+    transform: scale(1.1) translateY(-5px);
+}
