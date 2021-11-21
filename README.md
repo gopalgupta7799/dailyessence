@@ -19,7 +19,7 @@ The app restricts admin page to admin only so that others cannot access it.
 ##########################
 
 Client folder is React frontend part.
-index.js being entry point for the backend application
+app.js being entry point for the backend application
 package.json file has dependencies and other information which are required for this project.
 You need to create a file named ".env" with mongodb uri for database access
 
