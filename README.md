@@ -1,5 +1,6 @@
 # dailyessence
 MERN stack app
+
 This app is built using React at frontend, node at backend and mongodb as the database.
 This is a demo grocery app named DailyEssence which provides options to the customers to chhose their daily needs products and order them.
 
